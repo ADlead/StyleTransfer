@@ -1,7 +1,7 @@
-首先准备好内容图像和风格图像，大小设置为224 x 224
+First preparing content pictures and style pictures as theirs size as 224*224
 
-图片放在data文件夹中
+Set photos in directory "data".
 
-transfer.py是程序文件
+The "transfer.py" is the main program file.
 
-data文件夹中有vgg16.npy文件，保存着vgg网络中的参数，运行程序时会读取到。
+The directory "data" has file "vgg16.npy", which contains params of vgg net used when runing the program
