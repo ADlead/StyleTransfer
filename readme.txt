@@ -1,4 +1,4 @@
-First preparing content pictures and style pictures as theirs size as 224*224
+First preparing content pictures and style pictures with theirs size as 224*224.
 
 Set photos in directory "data".
 
